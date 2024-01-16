@@ -38,6 +38,8 @@ Thank you for visiting my GitHub! Let's build amazing things together.
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRezaulKarim)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRezaulKarim)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devRezaulKarim)
-![](https://komarev.com/ghpvc/?username=devRezaulKarim&color=green)
+
+
+![](https://komarev.com/ghpvc/?username=devRezaulKarim&color=blue)
