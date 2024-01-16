@@ -36,7 +36,7 @@ I'm always open to collaboration, learning from others, and sharing knowledge. F
 
 Thank you for visiting my GitHub! Let's build amazing things together.
 
-
+---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRezaulKarim)
 
