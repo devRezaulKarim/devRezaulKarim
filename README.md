@@ -1,5 +1,3 @@
-![](https://i.ibb.co/j85yjv4/web-development-programming-vector-25675092.webp)
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 </p>
@@ -51,3 +49,7 @@ Thank you for visiting my GitHub! Let's build amazing things together.
 
 
 ![](https://komarev.com/ghpvc/?username=devRezaulKarim&color=blue)
+
+
+
+![](https://i.ibb.co/j85yjv4/web-development-programming-vector-25675092.webp)
