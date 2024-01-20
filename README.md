@@ -1,6 +1,8 @@
 ![](https://i.ibb.co/j85yjv4/web-development-programming-vector-25675092.webp)
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+</p>
 # Hi, I'm Md. Rezaul Karim! 👋 ![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 
 I'm a passionate and dedicated junior web developer based in Bangladesh. With a strong foundation in web development, I specialize in a variety of front-end technologies, including HTML, CSS, Bootstrap, Tailwind, JavaScript, React.js, and Next.js.
