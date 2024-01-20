@@ -1,5 +1,5 @@
 ![](https://i.ibb.co/j85yjv4/web-development-programming-vector-25675092.webp)
-<div>![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)</div>
+![](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif)
 
 # Hi, I'm Md. Rezaul Karim! 👋 
 
