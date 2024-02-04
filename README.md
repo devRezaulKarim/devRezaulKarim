@@ -3,7 +3,7 @@
 </p>
 
 
-# <h1>Hi, I'm Md. Rezaul Karim! 👋 </h1>
+# Hi, I'm Md. Rezaul Karim! 👋 
 
 I'm a passionate and dedicated junior web developer based in Bangladesh. With a strong foundation in web development, I specialize in a variety of front-end technologies, including HTML, CSS, Bootstrap, Tailwind, JavaScript, React.js, and Next.js.
 
