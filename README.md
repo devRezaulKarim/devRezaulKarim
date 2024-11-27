@@ -32,7 +32,7 @@ I'm on a continuous learning journey, always eager to explore new technologies a
 I'm always open to collaboration, learning from others, and sharing knowledge. Feel free to connect with me:
 
 - 📧 Email: dev.rezaulkarim@gmail.com
-- 📞 Phone: +880 1633179004
+- 📞 Phone: +880 1540652375
 - 💬 Skype: live:rkzeebon_1
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dev-rezaul-karim/)
 - 🚀 [GitHub](https://github.com/devRezaulKarim)
