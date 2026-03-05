@@ -33,7 +33,6 @@ I'm always open to collaboration, learning from others, and sharing knowledge. F
 
 - 📧 Email: dev.rezaulkarim@gmail.com
 - 📞 Phone: +880 1540652375
-- 💬 Skype: live:rkzeebon_1
 - 🌐 [LinkedIn](https://www.linkedin.com/in/dev-rezaul-karim/)
 - 🚀 [GitHub](https://github.com/devRezaulKarim)
 
